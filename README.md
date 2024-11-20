@@ -60,7 +60,7 @@ This project is a **Course Enrollment System** built using **Java** and **MySQL*
 2. **Set up the database**:
    - Create a MySQL database for the system.
 3. **Update database configuration**:
-   - Modify the `Database_Connection` class to include your database credentials (username, password).
+   - Modify the `DBConnection` class to include your database credentials (username, password).
 4. **Compile and run the project**:
    - Compile Java files using `javac`.
    - Run the main class `CourseManagementApp`.
