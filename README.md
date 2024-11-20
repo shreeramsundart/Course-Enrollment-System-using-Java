@@ -63,6 +63,18 @@ This project is a **Course Enrollment System** built using **Java** and **MySQL*
    - Modify the `Database_Connection` class to include your database credentials (username, password).
 4. **Compile and run the project**:
    - Compile Java files using `javac`.
-   - Run the main class `CourseEnrollmentSystem`.
+   - Run the main class `CourseManagementApp`.
+
+---
+
+## Acknowledgments
+
+This project is the outcome of the **JAVA LEAP Workshop** hosted by **Sri Eshwar College of Engineering, Coimbatore**. The workshop aimed to equip participants with hands-on experience in developing real-world applications using **Java** and **MySQL**.
+
+---
+
+## License
+
+This project is licensed under the **MIT License**.
 
 ---
